@@ -9,4 +9,8 @@
     <string name="gasto_total_description">Seu gasto total será de:</string>
     <string name="btn_texto">Calcular</string>
     <string name="valor_total_RS">R$ 0</string>
+    <string name="catch_toast">Por favor informe valores válidos</string>
+    <string name="else_toast">Preencha todos os campos</string>
+    <string name="preencha_todos_campos">Por favor preencha todos os campos</string>
+    <string name="informe_valores_validos">Por favor insira valores válidos</string>
 </resources>
