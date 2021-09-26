@@ -9,11 +9,12 @@
     tools:context=".MainActivity">
 
     <EditText
+        android:id="@+id/editDistance"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:hint="@string/distancia"
-        android:inputType="number"/>
+        android:inputType="number" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -22,11 +23,12 @@
         android:text="@string/total_quilometros" />
 
     <EditText
+        android:id="@+id/editPrice"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
         android:hint="@string/preco"
-        android:inputType="numberDecimal"/>
+        android:inputType="numberDecimal" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -35,11 +37,12 @@
         android:text="@string/preco_litro" />
 
     <EditText
+        android:id="@+id/editAutonomy"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
         android:hint="@string/autonomia"
-        android:inputType="numberDecimal"/>
+        android:inputType="numberDecimal" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -57,6 +60,7 @@
         android:textSize="20sp" />
 
     <TextView
+        android:id="@+id/textTotalValue"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
@@ -66,13 +70,14 @@
         android:textSize="40sp" />
 
     <Button
+        android:id="@+id/buttonCalculate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:background="@color/lightGreen"
         android:padding="28dp"
         android:text="@string/btn_texto"
-        android:textSize="20sp"
-        android:textColor="@color/white" />
+        android:textColor="@color/white"
+        android:textSize="20sp" />
 
 </LinearLayout>
