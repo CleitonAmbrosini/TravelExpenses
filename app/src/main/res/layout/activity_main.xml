@@ -72,6 +72,7 @@
         android:background="@color/lightGreen"
         android:padding="28dp"
         android:text="@string/btn_texto"
+        android:textSize="20sp"
         android:textColor="@color/white" />
 
 </LinearLayout>
