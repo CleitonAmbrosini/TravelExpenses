@@ -33,18 +33,9 @@ Make sure that your device has the "Unknown soucers" option enabled, for that ju
 
 After that, on your android device, download the file "Gasto de viagem.apk" which is in the folder "apk" and follow the installation steps.
 
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-
 ## Authors
 
-Cleiton A. Ambrosini \<cleiton.ambro@gmail.com>
+Cleiton A. Ambrosini - cleiton.ambro@gmail.com
 
 ## License
 
